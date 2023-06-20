@@ -1,0 +1,80 @@
+
+  @media only screen and (min-width: 1000px) {
+    #phoneres{
+        width: 13rem;
+        position: absolute;
+        top: 185px ;
+        left:64%
+      }
+  }
+  @media only screen and (max-width: 1000px) {
+    .mint1{
+      order: 2;
+    }
+    .mint2{
+      order: 1;
+    }
+    .hline{
+      visibility: hidden;
+    }
+    #phoneres{
+        width: 11rem;
+        position: absolute;
+        top: 195px ;
+        left:78%
+      }
+      .copyright{
+        font-size:small;
+      }
+  }
+  @media only screen and (max-width: 800px) {
+    #phoneres{
+        width: 9rem;
+        position: absolute;
+        top: 165px ;
+        left:78%
+      }
+      .copyright{
+        font-size:x-small;
+      }
+  }
+  @media only screen and (max-width: 700px) {
+    #phoneres{
+        width: 9rem;
+        position: absolute;
+        top: 145px ;
+        left:78%
+      }
+    
+  }
+  @media only screen and (max-width: 600px) {
+ 
+    #phoneres{
+        width: 6rem;
+        position: absolute;
+        top: 125px ;
+        left:78%
+      }
+      .fupdate h4{
+        font-weight: 100px;
+      }
+  }
+
+  @media only screen and (max-width: 450px) {
+       .tokeni1 img{
+      height: 10%;
+      
+    }
+    .copyright{
+      font-size:.4rem
+    }
+    #phoneres{
+        width: 5rem;
+        position: absolute;
+        top: 105px ;
+        left:78%
+      }
+  }
+
+
+
